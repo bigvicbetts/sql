@@ -1,0 +1,25 @@
+# Logged in and searched for RDS under AWS Services
+
+# Selected 'Create Database'
+
+# Selected 'Easy Create' for Creation Method
+
+# Selected 'MySQL' for Configuration
+
+# Selected 'Free Tier' for DB instance size
+
+# Named it 'BettsDB'
+
+# Set Master username to 'admin' and password to 'TEKcamp1'
+
+# Also had to set some of the security settings to be less restrictive since I don't care who has access to the data
+# (and want to make it as EASY as possible to access)
+
+# The link is bettsdb.cc8hu8cpg7en.us-east-2.rds.amazonaws.com
+
+# Username is admin
+# Password is TEKcamp1
+
+# Had to create the "starter table" that Amir had created for us previously.  I created it exactly as he had,
+# including the order in which I entered the students so that they had the same ID's.  That way, the rest of
+# the exercise was simply copying over the script that I had from the initial exercise.  Work smarter, not harder.
